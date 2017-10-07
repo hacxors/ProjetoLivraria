@@ -171,3 +171,11 @@ footer{
 .panel-body{
 	margin:5px;
 }
+
+.imagem2{
+    0%   {background: red; left: 0px; top: 1px;}
+    25%  {background: yellow; left: 200px; top: 20px;}
+    50%  {background: blue; left: 200px; top: 30px;}
+    75%  {background: green; left: 0px; top: 40px;}
+    100% {background: red; left: 0px; top: 0px;}
+}
